@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "591674545367",
+    "firebase_url": "https://simple-crud-flutter-app.firebaseio.com",
+    "project_id": "simple-crud-flutter-app",
+    "storage_bucket": "simple-crud-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591674545367:android:204879241fa2633be0cc92",
+        "android_client_info": {
+          "package_name": "com.mateuslopes.crud_fire_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591674545367-m6uq8rc747kpsmbp4nc8ep80dv2u1rvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mateuslopes.crud_fire_app",
+            "certificate_hash": "941585bb121c51d3611961ad5acece16898de953"
+          }
+        },
+        {
+          "client_id": "591674545367-047uqo0deu50ugacrbs8gn4mfkje2cne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHv2uEXQr0s4I8QQI-f0UBkWOrO8NyW24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591674545367-047uqo0deu50ugacrbs8gn4mfkje2cne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
